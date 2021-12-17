@@ -1,5 +1,5 @@
 ## React Media Player
-
+-
 A fork of [https://github.com/souporserious/react-media-player](https://github.com/souporserious/react-media-player).
 
 Components and decorators to help build video & audio players in React. Supports
